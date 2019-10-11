@@ -1,0 +1,320 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    padding: 70px;
+}
+
+.logo {}
+
+.logo img {
+    float: left;
+}
+
+.nav {
+    float: right;
+}
+
+.nav ul {
+    list-style-type: none;
+}
+
+.nav ul li {
+    display: inline;
+    padding-left: 90px;
+}
+
+.nav ul li:first-child {
+    padding-left: 0;
+}
+
+.nav ul li a {
+    text-decoration: none;
+    color: #626262;
+}
+
+.nav ul li a:hover {
+    color: rgba(89, 173, 217, 0.97);
+}
+
+.section {
+    padding: 70px;
+}
+
+.section img {
+    width: 100%;
+}
+
+.content_wrap {
+    width: 900px;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+.article {
+    margin-top: 40px;
+}
+
+.article h3 {
+    text-transform: uppercase;
+    color: #918989;
+    font-weight: normal;
+    padding-bottom: 20px;
+}
+
+.article h2 {
+    color: #434040;
+    padding-bottom: 40px;
+}
+
+.article p {
+    color: #434040;
+}
+
+.article h4 {
+    text-transform: uppercase;
+    color: #918989;
+    font-weight: normal;
+    padding-top: 80px;
+    padding-bottom: 140px;
+
+}
+
+.article_one {}
+
+.article_one_left {
+    float: left;
+    width: 420px;
+    margin-right: 60px;
+}
+
+.article_one_left img {}
+
+.article_one_left h4 {
+    color: #959393;
+    padding: 25px 0;
+}
+
+.article_one_left h2 {
+    color: #505050;
+}
+
+.article_one_left p {
+    color: #848383;
+    padding-top: 40px;
+    padding-bottom: 140px;
+}
+
+
+.article_one_right {
+    float: right;
+    width: 420px;
+}
+
+.article_one_right {
+    float: left;
+    width: 420px;
+}
+
+.article_one_right h4 {
+    color: #959393;
+    padding: 25px 0;
+}
+
+.article_one_right h2 {
+    color: #505050;
+}
+
+.article_one_right p {
+    color: #848383;
+    padding-top: 40px;
+    padding-bottom: 140px;
+}
+
+
+.article_two_left {
+    float: left;
+    width: 420px;
+    margin-right: 60px;
+}
+
+.article_two_left h4 {
+    color: #959393;
+    padding: 25px 0;
+}
+
+.article_two_left h2 {
+    color: #505050;
+}
+
+.article_two_left p {
+    color: #848383;
+    padding-top: 40px;
+    padding-bottom: 140px;
+}
+
+.article_two_right {
+    float: left;
+    width: 420px;
+}
+
+.article_two_right h4 {
+    color: #959393;
+    padding: 25px 0;
+}
+
+.article_two_right h2 {
+    color: #505050;
+}
+
+.article_two_right p {
+    color: #848383;
+    padding-top: 40px;
+    padding-bottom: 140px;
+}
+
+.newslatter {
+    background: #f0f0f0;
+    min-height: 350px;
+    clear: both;
+    text-align: center;
+
+}
+
+.news_bg {
+    background: #f0f0f0;
+    margin-bottom: 130px;
+}
+
+.newslatter h2 {
+    padding: 75px 0 90px 30px;
+    font-size: 30px;
+    color: #484848;
+}
+
+.new_con {
+    border-bottom: 1px solid black;
+    width: 350px;
+    margin: 0 auto;
+}
+
+.new_con h4 {
+    color: #676363;
+    text-align: left;
+    padding-bottom: 7px;
+}
+
+.new_con img {
+    width: 25px;
+    float: right;
+    margin-top: -33px;
+}
+
+
+.article_three_left {
+    float: left;
+    width: 420px;
+    margin-right: 60px;
+}
+
+.article_three_left h4 {
+    color: #959393;
+    padding: 25px 0;
+}
+
+.article_three_left h2 {
+    color: #505050;
+}
+
+.article_three_left p {
+    color: #848383;
+    padding-top: 40px;
+    padding-bottom: 140px;
+}
+
+
+.article_three_right {
+    float: left;
+    width: 420px;
+}
+
+.article_three_right h4 {
+    color: #959393;
+    padding: 25px 0;
+}
+
+.article_three_right h2 {
+    color: #505050;
+}
+
+.article_three_right p {
+    color: #848383;
+    padding-top: 40px;
+    padding-bottom: 140px;
+}
+
+
+
+.lode_more {
+    clear: both;
+    text-align: center;
+}
+
+
+.lode_more {
+    margin: 0 auto;
+    min-height: 600px;
+}
+
+.lode_more a {
+    text-decoration: none;
+    color: #343434;
+    font-size: 25px;
+    border: 1px solid black;
+    padding: 15px 30px;
+    transition: all 0.5s ease;
+}
+
+.lode_more a:hover {
+    background: #818181;
+    color: #fff;
+    border: none;
+}
+
+.footer {
+    background: #f0f0f0;
+    clear: both;
+    min-height: 30px;
+    padding: 55px 30px 30px 140px;
+}
+
+.footer_left {}
+
+.footer_left h2 {
+    float: left;
+    padding-left: 20px;
+    font-size: 18px;
+    color: #545454;
+}
+
+.footer_right {
+    float: right;
+    margin-right: 30px;
+    display: inline;
+}
+
+.footer_right h4 {
+    float: left;
+    padding-right: 20px;
+    color: #696868;
+}
+
+.footer_right img {
+    float: left;
+    padding-right: 20px;
+    width: 20px;
+    
+}
